@@ -12,10 +12,22 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Please give the first value a: ");
-        int a = Integer.parseInt( scanner.nextLine() );
+        int a = 0;
+        try {
+            a = Integer.parseInt( scanner.nextLine() );
+        } catch (NumberFormatException e) {
+            System.out.println("You are stupid. that aint a number. go back to school");
+            System.exit(1);
+        }
 
         System.out.print("Please give the first value b: ");
-        int b = Integer.parseInt( scanner.nextLine() );
+        int b = 0;
+        try {
+            b = Integer.parseInt( scanner.nextLine() );
+        } catch (NumberFormatException e) {
+            System.out.println("You are stupid. that aint a number. go back to school");
+            System.exit(1);
+        }
 
         // Use the method sum
         System.out.println(a + " + " + b + " = " + sum(a, b));
@@ -35,5 +47,8 @@ public class Main {
         int mul = a * b;
         return mul;
     }
+
+
+
 
 }
