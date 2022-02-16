@@ -9,3 +9,4 @@ public class Subtraction implements CalculationInterface {
         return "-";
     }
 }
+
