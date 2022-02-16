@@ -8,10 +8,10 @@ Het ontwerpen van de GitHub workshop dat het écht een workshop wordt, waarbij s
 
 
 # Leerdoel
-Je werkt met git aan het ontwikkelen van softwareopdrachten en gebruikt hierbij guthub.com en Git(Kraken), zodanig dat je het Git versiebeheersysteem zonder problemen in de proftaak kan toepassen.
+Je werkt met git aan het ontwikkelen van softwareopdrachten en gebruikt hierbij github.com en Git(Kraken), zodanig dat je het Git versiebeheersysteem zonder problemen in de proftaak kan toepassen.
  
 # Workshops
-Dit leerdoel wordt bereitk door een goede voorbereiding en het meedoen aan de workshops. In de workshops gaan we direct aan de slag met git en het ontwikkelen van software in Java. Zorg dat je goed voorbereid bent! Zonder voorbereiding is de workshop niet goed te volgen en loop je achter op je medestudenten. De volgende drie workshops worden gegeven:
+Dit leerdoel wordt bereikt door een goede voorbereiding en het meedoen aan de workshops. In de workshops gaan we direct aan de slag met git en het ontwikkelen van software in Java. Zorg dat je goed voorbereid bent! Zonder voorbereiding is de workshop niet goed te volgen en loop je achter op je medestudenten. De volgende drie workshops worden gegeven:
 
 1.	Hello Git! – Je creëert een eigen git repository en werkt de workshopopdrachten door, zodanig dat je de Git commando’s correct kan toepassen.
 2.	Working flow Git! – Je past de werkwijze van versiebeheer toe tijdens het uitwerken van de workshopopdrachten, zodanig dat je binnen de deze gestructureerde werkwijze correct kan toepassen.
