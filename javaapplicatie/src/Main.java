@@ -4,6 +4,7 @@ public class Main {
 
     // Main method that is invoked when the application is started
     public static void main(String[] args) {
+        System.out.println("Merged");
         startUserInterface();
     }
 
