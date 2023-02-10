@@ -26,14 +26,12 @@ public class Main {
 
     // Method returns the interger sum of two integers.
     static int sum( int a, int b ) {
-        int sum = a + b;
-        return sum;
+        return a + b;
     }
 
     // Method returns the interger sum of two integers.
     static int mul( int a, int b ) {
-        int mul = a * b;
-        return mul;
+        return a * b;
     }
 
 }
